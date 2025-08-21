@@ -9,7 +9,7 @@ export const style = StyleSheet.create({
         borderRadius: 15,
         alignItems: 'center',
         justifyContent: 'center',
-        width: "50%",
+        width: "48%",
         height: 50,
     },
     title:{
